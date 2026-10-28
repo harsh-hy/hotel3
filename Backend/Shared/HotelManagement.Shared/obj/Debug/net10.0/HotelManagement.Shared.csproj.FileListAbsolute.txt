@@ -1,0 +1,12 @@
+C:\SeptTrain\Hotel\Backend\Shared\HotelManagement.Shared\obj\Debug\net10.0\HotelManagement.Shared.csproj.AssemblyReference.cache
+C:\SeptTrain\Hotel\Backend\Shared\HotelManagement.Shared\obj\Debug\net10.0\HotelManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\SeptTrain\Hotel\Backend\Shared\HotelManagement.Shared\obj\Debug\net10.0\HotelManagement.Shared.AssemblyInfoInputs.cache
+C:\SeptTrain\Hotel\Backend\Shared\HotelManagement.Shared\obj\Debug\net10.0\HotelManagement.Shared.AssemblyInfo.cs
+C:\SeptTrain\Hotel\Backend\Shared\HotelManagement.Shared\obj\Debug\net10.0\HotelManagement.Shared.csproj.CoreCompileInputs.cache
+C:\SeptTrain\Hotel\Backend\Shared\HotelManagement.Shared\bin\Debug\net10.0\HotelManagement.Shared.deps.json
+C:\SeptTrain\Hotel\Backend\Shared\HotelManagement.Shared\bin\Debug\net10.0\HotelManagement.Shared.dll
+C:\SeptTrain\Hotel\Backend\Shared\HotelManagement.Shared\bin\Debug\net10.0\HotelManagement.Shared.pdb
+C:\SeptTrain\Hotel\Backend\Shared\HotelManagement.Shared\obj\Debug\net10.0\HotelManagement.Shared.dll
+C:\SeptTrain\Hotel\Backend\Shared\HotelManagement.Shared\obj\Debug\net10.0\refint\HotelManagement.Shared.dll
+C:\SeptTrain\Hotel\Backend\Shared\HotelManagement.Shared\obj\Debug\net10.0\HotelManagement.Shared.pdb
+C:\SeptTrain\Hotel\Backend\Shared\HotelManagement.Shared\obj\Debug\net10.0\ref\HotelManagement.Shared.dll
