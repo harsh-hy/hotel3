@@ -1,7 +1,7 @@
 using BookingService.Entities;
 using BookingService.Repositories;
 using BookingService.Services;
-using HotelManagement.Shared.Exceptions;
+using BookingService.Common.Exceptions;
 using Moq;
 using NUnit.Framework;
 

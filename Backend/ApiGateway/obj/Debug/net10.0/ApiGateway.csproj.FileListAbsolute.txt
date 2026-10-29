@@ -48,3 +48,4 @@ C:\SeptTrain\Hotel\Backend\ApiGateway\obj\Debug\net10.0\refint\ApiGateway.dll
 C:\SeptTrain\Hotel\Backend\ApiGateway\obj\Debug\net10.0\ApiGateway.pdb
 C:\SeptTrain\Hotel\Backend\ApiGateway\obj\Debug\net10.0\ApiGateway.genruntimeconfig.cache
 C:\SeptTrain\Hotel\Backend\ApiGateway\obj\Debug\net10.0\ref\ApiGateway.dll
+C:\SeptTrain\Hotel\Backend\ApiGateway\obj\Debug\net10.0\ApiGateway.sourcelink.json

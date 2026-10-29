@@ -1,6 +1,6 @@
 using BookingService.DTOs;
 using BookingService.Repositories;
-using HotelManagement.Shared.Constants;
+using BookingService.Common.Constants;
 
 namespace BookingService.Services;
 

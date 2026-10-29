@@ -71,8 +71,6 @@ C:\SeptTrain\Hotel\Backend\IdentityService\bin\Debug\net10.0\runtimes\win\lib\ne
 C:\SeptTrain\Hotel\Backend\IdentityService\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\SeptTrain\Hotel\Backend\IdentityService\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\SeptTrain\Hotel\Backend\IdentityService\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\SeptTrain\Hotel\Backend\IdentityService\bin\Debug\net10.0\HotelManagement.Shared.dll
-C:\SeptTrain\Hotel\Backend\IdentityService\bin\Debug\net10.0\HotelManagement.Shared.pdb
 C:\SeptTrain\Hotel\Backend\IdentityService\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\SeptTrain\Hotel\Backend\IdentityService\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\SeptTrain\Hotel\Backend\IdentityService\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -88,3 +86,4 @@ C:\SeptTrain\Hotel\Backend\IdentityService\obj\Debug\net10.0\refint\IdentityServ
 C:\SeptTrain\Hotel\Backend\IdentityService\obj\Debug\net10.0\IdentityService.pdb
 C:\SeptTrain\Hotel\Backend\IdentityService\obj\Debug\net10.0\IdentityService.genruntimeconfig.cache
 C:\SeptTrain\Hotel\Backend\IdentityService\obj\Debug\net10.0\ref\IdentityService.dll
+C:\SeptTrain\Hotel\Backend\IdentityService\obj\Debug\net10.0\IdentityService.sourcelink.json

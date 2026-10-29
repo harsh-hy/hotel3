@@ -1,8 +1,8 @@
 using IdentityService.Data;
 using IdentityService.Repositories;
 using IdentityService.Services;
-using HotelManagement.Shared.Middleware;
-using HotelManagement.Shared.Security;
+using IdentityService.Common.Middleware;
+using IdentityService.Common.Security;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using Serilog;

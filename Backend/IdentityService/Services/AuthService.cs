@@ -3,8 +3,8 @@ using System.Security.Claims;
 using System.Text;
 using IdentityService.DTOs;
 using IdentityService.Repositories;
-using HotelManagement.Shared.Exceptions;
-using HotelManagement.Shared.Security;
+using IdentityService.Common.Exceptions;
+using IdentityService.Common.Security;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 

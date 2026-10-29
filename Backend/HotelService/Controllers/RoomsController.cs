@@ -1,6 +1,6 @@
 using HotelService.DTOs;
 using HotelService.Services;
-using HotelManagement.Shared.Constants;
+using HotelService.Common.Constants;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 

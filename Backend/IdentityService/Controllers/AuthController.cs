@@ -1,7 +1,7 @@
 using IdentityService.DTOs;
 using IdentityService.Services;
-using HotelManagement.Shared.Exceptions;
-using HotelManagement.Shared.Security;
+using IdentityService.Common.Exceptions;
+using IdentityService.Common.Security;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 

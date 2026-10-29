@@ -1,8 +1,8 @@
 using IdentityService.DTOs;
 using IdentityService.Entities;
 using IdentityService.Repositories;
-using HotelManagement.Shared.Constants;
-using HotelManagement.Shared.Exceptions;
+using IdentityService.Common.Constants;
+using IdentityService.Common.Exceptions;
 
 namespace IdentityService.Services;
 

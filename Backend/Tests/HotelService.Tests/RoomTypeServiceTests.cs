@@ -2,7 +2,7 @@ using HotelService.DTOs;
 using HotelService.Entities;
 using HotelService.Repositories;
 using HotelService.Services;
-using HotelManagement.Shared.Exceptions;
+using HotelService.Common.Exceptions;
 using Moq;
 using NUnit.Framework;
 

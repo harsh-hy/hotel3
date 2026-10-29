@@ -1,8 +1,8 @@
 using BookingService.DTOs;
 using BookingService.Entities;
 using BookingService.Repositories;
-using HotelManagement.Shared.Constants;
-using HotelManagement.Shared.Exceptions;
+using BookingService.Common.Constants;
+using BookingService.Common.Exceptions;
 
 namespace BookingService.Services;
 

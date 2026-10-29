@@ -1,5 +1,5 @@
 using BookingService.Services;
-using HotelManagement.Shared.Security;
+using BookingService.Common.Security;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 

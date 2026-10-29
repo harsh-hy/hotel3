@@ -16,10 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Shared\HotelManagement.Shared\HotelManagement.Shared.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Reference Include="HotelService">
       <HintPath>..\..\HotelService\bin\Debug\net10.0\HotelService.dll</HintPath>
     </Reference>

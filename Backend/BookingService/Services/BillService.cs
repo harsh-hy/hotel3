@@ -1,6 +1,6 @@
 using BookingService.DTOs;
 using BookingService.Repositories;
-using HotelManagement.Shared.Exceptions;
+using BookingService.Common.Exceptions;
 
 namespace BookingService.Services;
 

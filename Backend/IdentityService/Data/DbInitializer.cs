@@ -1,6 +1,6 @@
 using IdentityService.Entities;
 using IdentityService.Repositories;
-using HotelManagement.Shared.Constants;
+using IdentityService.Common.Constants;
 using Microsoft.Extensions.Logging;
 
 namespace IdentityService.Data;

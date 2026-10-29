@@ -1,4 +1,3 @@
-C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\.msCoverageSourceRootsMapping_IdentityService.Tests
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\testhost.dll
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\testhost.exe
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\NUnit3.TestAdapter.pdb
@@ -43,11 +42,8 @@ C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\Serilog
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\Serilog.AspNetCore.dll
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\Serilog.Extensions.Hosting.dll
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\Serilog.Extensions.Logging.dll
-C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\Serilog.Formatting.Compact.dll
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\Serilog.Settings.Configuration.dll
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\Serilog.Sinks.Console.dll
-C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\Serilog.Sinks.Debug.dll
-C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\Serilog.Sinks.File.dll
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
@@ -166,7 +162,6 @@ C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\zh-Hans
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\HotelManagement.Shared.dll
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\IdentityService.dll
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
@@ -179,7 +174,6 @@ C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\Microso
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\Microsoft.Identity.Client.dll
-C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\HotelManagement.Shared.pdb
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\IdentityService.pdb
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
@@ -205,3 +199,4 @@ C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\obj\Debug\net10.0\refint\
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\obj\Debug\net10.0\IdentityService.Tests.pdb
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\obj\Debug\net10.0\IdentityService.Tests.genruntimeconfig.cache
 C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\obj\Debug\net10.0\ref\IdentityService.Tests.dll
+C:\SeptTrain\Hotel\Backend\Tests\IdentityService.Tests\obj\Debug\net10.0\IdentityService.Tests.sourcelink.json

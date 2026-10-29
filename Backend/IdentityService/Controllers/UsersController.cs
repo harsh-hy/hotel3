@@ -1,6 +1,6 @@
 using IdentityService.DTOs;
 using IdentityService.Services;
-using HotelManagement.Shared.Constants;
+using IdentityService.Common.Constants;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 

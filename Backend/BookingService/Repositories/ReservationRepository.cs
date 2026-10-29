@@ -1,6 +1,6 @@
 using BookingService.Data;
 using BookingService.Entities;
-using HotelManagement.Shared.Constants;
+using BookingService.Common.Constants;
 using Microsoft.EntityFrameworkCore;
 
 namespace BookingService.Repositories;

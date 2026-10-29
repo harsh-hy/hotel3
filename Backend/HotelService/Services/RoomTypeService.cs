@@ -1,7 +1,7 @@
 using HotelService.DTOs;
 using HotelService.Entities;
 using HotelService.Repositories;
-using HotelManagement.Shared.Exceptions;
+using HotelService.Common.Exceptions;
 
 namespace HotelService.Services;
 

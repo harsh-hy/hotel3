@@ -3,8 +3,8 @@ using HotelService.Entities;
 using HotelService.Repositories;
 using HotelService.Services;
 using HotelService.Services.Http;
-using HotelManagement.Shared.Constants;
-using HotelManagement.Shared.Exceptions;
+using HotelService.Common.Constants;
+using HotelService.Common.Exceptions;
 using Moq;
 using NUnit.Framework;
 

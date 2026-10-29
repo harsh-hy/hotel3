@@ -1,7 +1,7 @@
 using BookingService.Entities;
 using BookingService.Repositories;
 using BookingService.Services;
-using HotelManagement.Shared.Constants;
+using BookingService.Common.Constants;
 using Moq;
 using NUnit.Framework;
 

@@ -2,8 +2,8 @@ using HotelService.DTOs;
 using HotelService.Entities;
 using HotelService.Repositories;
 using HotelService.Services.Http;
-using HotelManagement.Shared.Constants;
-using HotelManagement.Shared.Exceptions;
+using HotelService.Common.Constants;
+using HotelService.Common.Exceptions;
 
 namespace HotelService.Services;
 
