@@ -39,7 +39,50 @@ public static class JwtConfiguration
                 ValidateAudience = true,
                 ValidAudience = audience,
                 ValidateLifetime = true,
-                ClockSkew = TimeSpan.Zero
+                ClockSkew = TimeSpan.Zero,
+                NameClaimType = ClaimTypes.Name,
+                RoleClaimType = ClaimTypes.Role
+            };
+
+            options.Events = new JwtBearerEvents
+            {
+                OnMessageReceived = context =>
+                {
+                    var authHeader = context.Request.Headers["Authorization"].FirstOrDefault();
+                    if (!string.IsNullOrWhiteSpace(authHeader))
+                    {
+                        if (authHeader.StartsWith("Bearer ", StringComparison.OrdinalIgnoreCase))
+                        {
+                            context.Token = authHeader["Bearer ".Length..].Trim();
+                        }
+                        else if (!authHeader.Contains(' '))
+                        {
+                            // Handles user pasting token directly into Swagger without typing "Bearer "
+                            context.Token = authHeader.Trim();
+                        }
+                    }
+                    return Task.CompletedTask;
+                },
+                OnTokenValidated = context =>
+                {
+                    if (context.Principal?.Identity is ClaimsIdentity identity)
+                    {
+                        // Ensure both ClaimTypes.Role and "role" claims exist for RBAC
+                        var roles = identity.FindAll(c => c.Type == ClaimTypes.Role || c.Type == "role").Select(c => c.Value).Distinct().ToList();
+                        foreach (var role in roles)
+                        {
+                            if (!identity.HasClaim(ClaimTypes.Role, role))
+                            {
+                                identity.AddClaim(new Claim(ClaimTypes.Role, role));
+                            }
+                            if (!identity.HasClaim("role", role))
+                            {
+                                identity.AddClaim(new Claim("role", role));
+                            }
+                        }
+                    }
+                    return Task.CompletedTask;
+                }
             };
         });
 
